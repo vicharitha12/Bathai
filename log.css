@@ -1,0 +1,54 @@
+body{
+    background-color: lightgreen;
+}
+.to{
+    margin-top: 7%;
+    display: inline-block;
+    width: 50%;
+    height: auto;
+}
+#sitem{
+    background-color: lightcyan;
+    width: 50%;
+    height: auto;
+
+}
+#sitem1{
+    background-color: lightcyan;
+    width: 50%;
+    height: auto;
+
+}
+.in{
+    margin: 2%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    /* background-color: greenyellow; */
+    background-color:  lightcyan;
+}
+#btn {
+    width: 100%;
+    border: 0px;
+    height: 35px;
+    background-color: blue;
+}
+
+
+form .in{
+    height: auto;
+    width: 80%;
+
+}
+#register{
+    display: inline-block;
+    width: 50%;
+    background-color:lightcyan ;   
+}
+
+#Login{
+    display: inline-block;
+    width: 49%;
+    
+    
+}
